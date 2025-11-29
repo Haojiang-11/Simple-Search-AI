@@ -1,12 +1,12 @@
 # 📚 Simple-Search-AI
 
-A beautiful, AI-powered academic paper search tool built with Streamlit. It helps researchers find papers from top AI conferences (ICLR, NeurIPS, ICML, CVPR, etc.) using natural language queries and DeepSeek's reasoning capabilities.
+A beautiful, AI-powered academic paper search tool built with Streamlit (using **Gemini 3 pro**). It helps researchers find papers from **Top-tier AI Conferences** (ICLR, NeurIPS, ICML, CVPR, etc.) using natural language queries and DeepSeek's reasoning capabilities.
 
 ## ✨ Features
 
 - **🔍 Basic Search**: Directly search for papers using keywords (No API Key required).
 - **🧠 AI Smart Search**: Describe your research intent in natural language, and the AI will extract keywords and rerank papers (Requires DeepSeek API Key).
-- **Multi-Conference Support**: Search across ICLR, NeurIPS, ICML, CVPR, ECCV, ICCV, and AAAI.
+- **🏆 Top-tier Conference Support**: Comprehensive coverage of prestigious AI venues including ICLR, NeurIPS, ICML, CVPR, ECCV, ICCV, and AAAI.
 - **Real-time Retrieval**: Fetches the latest data from OpenReview, CVF, and arXiv.
 - **Macaron UI Theme**: A clean, academic-friendly interface with a soft pastel color palette.
 - **PDF Direct Links**: One-click access to paper PDFs.
