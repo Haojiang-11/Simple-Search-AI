@@ -262,7 +262,7 @@ elif conference == "ICCV":
 else:
     available_years = all_years
 
-year = st.sidebar.selectbox("Year", [str(y) for y in available_years])
+year = st.sidebar.selectbox("Year", [str(y) for y in available_years], index=1)
 
 st.sidebar.caption("💡 Click to switch conference or year.")
 
