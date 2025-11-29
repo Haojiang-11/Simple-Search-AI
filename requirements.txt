@@ -1,0 +1,8 @@
+streamlit
+openreview-py
+pandas
+requests
+beautifulsoup4
+openai
+lxml
+watchdog
